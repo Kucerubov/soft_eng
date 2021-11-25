@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/IraKu/Desktop/GenLib/soft_eng/src/app/src/main/res/layout-w1240dp/window_login.xml" value="0.1753681392235609" />
+        <entry key="..\:/Users/IraKu/Desktop/GenLib/soft_eng/src/app/src/main/res/layout-w936dp/window_login.xml" value="0.2046875" />
         <entry key="..\:/Users/IraKu/Desktop/GenLib/soft_eng/src/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/IraKu/Desktop/GenLib/soft_eng/src/app/src/main/res/layout/login_activity.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/IraKu/Desktop/GenLib/soft_eng/src/app/src/main/res/layout/login_window.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/IraKu/Desktop/GenLib/soft_eng/src/app/src/main/res/layout/window_login.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/IraKu/Desktop/GenLib/soft_eng/src/app/src/main/res/layout/window_main.xml" value="0.27291666666666664" />
       </map>
     </option>
