@@ -49,7 +49,7 @@ public class LoginActivity extends AppCompatActivity {
         dialog.setMessage("Введите все данные для регистрации");
 
         LayoutInflater inflater = LayoutInflater.from(this);
-        View register_window = inflater.inflate(R.layout.login_window);
+
 
     }
 
